@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 > A deep learning system designed to improve the perceptual and structural quality of rendered 2D and 3D assets by explicitly conditioning image enhancement on geometric signals such as depth and surface normals.
 
@@ -353,7 +352,7 @@ This work enables:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE file for details (to be added).
 
 ## 🤝 Contributing
 
