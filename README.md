@@ -1,4 +1,5 @@
 # GeoRefine: Geometry-Aware Rendering Enhancement Framework
+<img width="523" height="479" alt="image" src="https://github.com/user-attachments/assets/56e61acf-67cc-49cb-8113-834d114ca43b" />
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
